@@ -1,0 +1,6 @@
+highlights:
+    - Bayes' Theorem
+    - Gaussian distributions
+    - Binomial distributions
+    - Poisson distributions
+    
